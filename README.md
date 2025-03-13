@@ -35,8 +35,7 @@ Record a short video of your project to display here on your README. You can do 
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
-
+My goal is to help people improve their typing speed as well as accuracy. With words randomly selected from the top 1000 most common english words, my program can help people type these words more faster and more accurate. Based on the word count, it selects a random word from the words.txt file and adds it to an array and repeats this random selection for however many words the user entered to generate when prompted with "How many words would you like to type?"
 ## NLP Techniques
 
-Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
+I used the Natural Language Technique of text generation to randomly select words from the words.txt file and generate them in a random order. The method addRandomWords is associated with this text generation, as it adds these words into the array. Then the method createSentence converts the elements in the list to a string and spaces the words out. Another NLP technique I used is semantic matching which I used to compare the generated sentence to the sentence the user typed and find the accuracy based on how close they match each other.
