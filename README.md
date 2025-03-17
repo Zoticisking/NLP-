@@ -33,6 +33,7 @@ Record a short video of your project to display here on your README. You can do 
 
 [![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
+https://youtu.be/3u8g4lhyY8g
 ## Project Description
 
 My goal is to help people improve their typing speed as well as accuracy. With words randomly selected from the top 1000 most common english words, my program can help people type these words more faster and more accurate. Based on the word count, it selects a random word from the words.txt file and adds it to an array and repeats this random selection for however many words the user entered to generate when prompted with "How many words would you like to type?"
