@@ -32,6 +32,7 @@ Record a short video of your project to display here on your README. You can do 
 - Use the following markdown code:
 
 [![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+![Uploading image.png…]()
 
 https://youtu.be/3u8g4lhyY8g
 ## Project Description
